@@ -1,0 +1,136 @@
+sampleid	stool_consistency	hct_source	disease	categorical_time_relative_to_engraftment	week_relative_to_hct	timepoint_of_transplant	day_relative_to_nearest_hct	alleged_abduction
+N4VICF	formed	cord	Myelodysplastic Syndromes	pre	-1.0	6.0	-6.0	0
+8A0F9A	formed	cord	Leukemia	pre	-2.0	7.0	-7.0	0
+ZKJI45	semi-formed	cord	Leukemia	post	1.0	7.0	8.0	0
+XO59R8	liquid	cord	Leukemia	pre	-1.0	1.0	-1.0	0
+AFG7YZ	semi-formed	cord	Leukemia	post	2.0	1.0	15.0	0
+KR5DEB	formed	cord	Leukemia	pre	-1.0	5.0	-5.0	0
+8MIL3L	formed	cord	Non-Hodgkin's Lymphoma	pre	-2.0	7.0	-7.0	0
+6MPC62	formed	cord	Non-Hodgkin's Lymphoma	peri	-1.0	7.0	0.0	0
+RERN47	formed	cord	Non-Hodgkin's Lymphoma	post	0.0	7.0	7.0	0
+0KB68F	formed	cord	Non-Hodgkin's Lymphoma	post	2.0	7.0	15.0	0
+UQ1VYJ	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	post	2.0	4.0	15.0	0
+DALXNM	liquid	cord	Non-Hodgkin's Lymphoma	peri	-1.0	0.0	0.0	0
+WZVL32	formed	cord	Non-Hodgkin's Lymphoma	post	0.0	0.0	7.0	0
+66AYMN	semi-formed	cord	Non-Hodgkin's Lymphoma	post	1.0	0.0	14.0	0
+SFI9L6	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	pre	-1.0	2.0	-2.0	0
+YLLVZM	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	peri	-1.0	2.0	0.0	0
+CG40D4	liquid	PBSC_unmodified	Non-Hodgkin's Lymphoma	post	1.0	2.0	8.0	0
+UM6EDM	liquid	PBSC_unmodified	Non-Hodgkin's Lymphoma	post	1.0	2.0	14.0	0
+0TR6O2	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	pre	-1.0	6.0	-6.0	0
+A2FX4X	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	pre	-1.0	6.0	-5.0	0
+UT1NIU	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	pre	-1.0	6.0	-4.0	0
+SETQFZ	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	pre	-1.0	6.0	-3.0	0
+2M59XO	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	post	1.0	6.0	12.0	0
+JEJ9C6	liquid	PBSC_unmodified	Leukemia	peri	0.0	379.0	4.0	0
+2ZT5IF	formed	PBSC_unmodified	Hodgkin's Disease	pre	-1.0	5.0	-5.0	0
+5CPP5N	formed	PBSC_unmodified	Hodgkin's Disease	peri	0.0	5.0	3.0	0
+USRRQV	formed	PBSC_unmodified	Hodgkin's Disease	post	1.0	5.0	13.0	0
+PP79I8	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	pre	-1.0	5.0	-5.0	0
+AL6GY9	semi-formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	peri	0.0	5.0	1.0	0
+WQBQQ2	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	post	1.0	5.0	8.0	0
+NTRPTL	formed	PBSC_unmodified	Leukemia	pre	-2.0	9.0	-9.0	0
+WJA8C1	liquid	PBSC_unmodified	Leukemia	peri	0.0	9.0	5.0	0
+BKS62K	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	pre	-2.0	24.0	-9.0	0
+W5414C	liquid	cord	Non-Hodgkin's Lymphoma	peri	0.0	14.0	1.0	0
+9V6FS5	liquid	cord	Non-Hodgkin's Lymphoma	post	1.0	14.0	12.0	0
+8W6ADJ	semi-formed	PBSC_unmodified	Myelodysplastic Syndromes	pre	-1.0	5.0	-5.0	0
+5ZP6SF	semi-formed	PBSC_unmodified	Myelodysplastic Syndromes	pre	-1.0	5.0	-2.0	0
+7092S6	liquid	PBSC_unmodified	Myelodysplastic Syndromes	post	0.0	5.0	6.0	0
+EAJ8D1	liquid	PBSC_unmodified	Myelodysplastic Syndromes	post	1.0	5.0	12.0	0
+TEHZN5	formed							0
+BU4IJU	formed							0
+GX7LG5	formed							0
+B4P2N8	formed							0
+XVCUIZ	formed	PBSC_unmodified	Leukemia	pre	-1.0	363.0	-2.0	0
+LIFJEK	liquid	PBSC_unmodified	Leukemia	peri	0.0	363.0	3.0	0
+PTVRXH	liquid	PBSC_unmodified	Non-Hodgkin's Lymphoma	post	0.0	1.0	6.0	0
+HMPJUC	liquid	PBSC_unmodified	Non-Hodgkin's Lymphoma	post	0.0	1.0	7.0	0
+PQVFXQ	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	post	1.0	1.0	12.0	0
+7EO273	semi-formed	cord	Leukemia	pre	-1.0	6.0	-6.0	0
+6PIJWX	liquid	cord	Leukemia	pre	-1.0	6.0	-1.0	0
+PG5LI3	semi-formed	cord	Leukemia	peri	0.0	6.0	5.0	0
+1Y2WWO	semi-formed	cord	Leukemia	post	1.0	6.0	13.0	0
+62A5IJ	formed	PBSC_unmodified	Leukemia	peri	0.0	5.0	5.0	0
+94F4JW	formed	cord	Leukemia	pre	-1.0	3.0	-3.0	0
+3CGEF6	formed	cord	Leukemia	peri	0.0	3.0	1.0	0
+BL4AQ3	liquid	cord	Leukemia	post	0.0	3.0	7.0	0
+63BB0Q	liquid	cord	Leukemia	post	2.0	3.0	16.0	0
+RY2J8K	semi-formed	cord	Non-Hodgkin's Lymphoma	pre	-1.0	6.0	-6.0	0
+5CBV0W	semi-formed	cord	Non-Hodgkin's Lymphoma	pre	-1.0	6.0	-3.0	0
+C776ZA	semi-formed	cord	Non-Hodgkin's Lymphoma	post	1.0	6.0	11.0	0
+PGIR4X	semi-formed	cord	Non-Hodgkin's Lymphoma	post	1.0	6.0	13.0	0
+IXJOV0	liquid	PBSC_unmodified	Leukemia	peri	0.0	52.0	3.0	0
+JPW9HU	formed	PBSC_unmodified	Leukemia	pre	-1.0	4.0	-4.0	0
+HEKP4L	semi-formed	PBSC_unmodified	Leukemia	peri	0.0	4.0	3.0	0
+82O5JA	semi-formed	PBSC_unmodified	Leukemia	post	1.0	4.0	11.0	0
+QWYAAY	formed	cord	Leukemia	pre	-1.0	5.0	-5.0	0
+7R1GFQ	semi-formed	cord	Leukemia	pre	-1.0	5.0	-2.0	0
+G3VBHP	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	pre	-1.0	5.0	-5.0	0
+C0PEHY	semi-formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	pre	-1.0	5.0	-2.0	0
+PSHJIP	liquid	PBSC_unmodified	Non-Hodgkin's Lymphoma	post	1.0	5.0	10.0	0
+FA88B6	semi-formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	post	2.0	5.0	15.0	0
+KTSCMP	formed	cord	Leukemia	pre	-1.0	6.0	-6.0	0
+TTNSEZ	liquid	cord	Leukemia	pre	-1.0	6.0	-2.0	0
+RU951M	semi-formed	cord	Leukemia	post	1.0	6.0	13.0	0
+SLV228	formed	PBSC_unmodified	Leukemia	pre	-1.0	5.0	-5.0	0
+RRA9NL	semi-formed	PBSC_unmodified	Leukemia	peri	0.0	5.0	4.0	0
+S2JX0O	formed	PBSC_unmodified	Hodgkin's Disease	pre	-2.0	7.0	-7.0	0
+GZ5795	semi-formed	PBSC_unmodified	Hodgkin's Disease	peri	0.0	7.0	4.0	0
+0ZIEYD	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	pre	-1.0	6.0	-6.0	0
+L60NPJ	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	pre	-1.0	6.0	-1.0	0
+0UWI7J	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	peri	-1.0	6.0	0.0	0
+Z95BTZ	semi-formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	post	0.0	6.0	6.0	0
+QJIMXT	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	post	1.0	6.0	13.0	0
+4JX8MN	formed	PBSC_unmodified	Leukemia	pre	-1.0	5.0	-5.0	0
+ZJYE4E	formed	PBSC_unmodified	Leukemia	pre	-2.0	9.0	-9.0	0
+2FPVDT	semi-formed	PBSC_unmodified	Leukemia	pre	-1.0	6.0	-6.0	0
+WP0TB1	liquid	PBSC_unmodified	Leukemia	pre	-1.0	6.0	-2.0	0
+9FGVWQ	liquid	PBSC_unmodified	Leukemia	peri	-1.0	6.0	0.0	0
+GRMT7P	liquid	PBSC_unmodified	Leukemia	peri	0.0	6.0	5.0	0
+97HREF	liquid	PBSC_unmodified	Leukemia	post	1.0	6.0	12.0	0
+UB1Z91	liquid	PBSC_unmodified	Leukemia	post	1.0	6.0	14.0	0
+O3OW1F	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	pre	-1.0	2.0	-2.0	0
+8QR9US	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	post	0.0	2.0	6.0	0
+HH1SXZ	liquid	PBSC_unmodified	Non-Hodgkin's Lymphoma	post	1.0	2.0	12.0	0
+YL5QG5	formed	PBSC_unmodified	Leukemia	pre	-2.0	9.0	-9.0	0
+6E5YJU	semi-formed	PBSC_unmodified	Leukemia	pre	-1.0	9.0	-3.0	0
+4L9I67	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	pre	-1.0	5.0	-5.0	0
+D31PBF	semi-formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	post	1.0	5.0	11.0	0
+9MQ67J	liquid	cord	Non-Hodgkin's Lymphoma	post	2.0	3.0	15.0	0
+6JACFU	formed	cord	Hodgkin's Disease	pre	-1.0	3.0	-3.0	0
+J4NCRD	liquid	cord	Hodgkin's Disease	post	1.0	3.0	8.0	0
+A7DEJE	formed	cord	Leukemia	pre	-1.0	6.0	-6.0	0
+PYOTBF	liquid	cord	Leukemia	pre	-1.0	6.0	-5.0	0
+JW08QG	liquid	cord	Leukemia	post	0.0	6.0	7.0	0
+MN6YRR	liquid	cord	Leukemia	post	1.0	6.0	11.0	0
+9X2OPW	formed	cord	Leukemia	pre	-1.0	6.0	-6.0	0
+3ZQWO3	semi-formed	cord	Leukemia	pre	-1.0	6.0	-2.0	0
+51LN9N	semi-formed	cord	Leukemia	post	1.0	6.0	11.0	0
+XDEIYI	formed	cord	Leukemia	pre	-1.0	6.0	-6.0	0
+XCYZJI	semi-formed	cord	Leukemia	pre	-1.0	6.0	-2.0	0
+JRGI27	liquid	cord	Leukemia	peri	0.0	6.0	5.0	0
+1IMOSV	formed	cord	Leukemia	pre	-1.0	3.0	-3.0	0
+VLMX7N	liquid	cord	Leukemia	post	1.0	3.0	11.0	0
+A454WP	formed	cord	Non-Hodgkin's Lymphoma	pre	-1.0	6.0	-6.0	0
+C7PEWB	formed	cord	Non-Hodgkin's Lymphoma	pre	-1.0	6.0	-2.0	0
+NV2MHM	formed	cord	Non-Hodgkin's Lymphoma	peri	-1.0	6.0	0.0	0
+3DFM85	formed	cord	Non-Hodgkin's Lymphoma	peri	0.0	6.0	5.0	0
+RYYSOI	formed	cord	Hodgkin's Disease	pre	-1.0	6.0	-6.0	0
+Z9874X	formed	cord	Hodgkin's Disease	peri	-1.0	6.0	0.0	0
+RE2G74	liquid	cord	Hodgkin's Disease	post	1.0	6.0	9.0	0
+K613DJ	semi-formed	cord	Hodgkin's Disease	post	1.0	6.0	13.0	0
+F7IP1O	semi-formed	PBSC_unmodified	Leukemia	pre	-1.0	5.0	-5.0	0
+WWN7Y0	formed	cord	Leukemia	pre	-1.0	1.0	-1.0	0
+NGEUPE	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	pre	-2.0	7.0	-7.0	0
+RZEXX3	formed	cord	Non-Hodgkin's Lymphoma	pre	-1.0	5.0	-5.0	0
+95NCMG	liquid	cord	Non-Hodgkin's Lymphoma	peri	-1.0	5.0	0.0	0
+4NU0Q9	liquid	cord	Non-Hodgkin's Lymphoma	post	1.0	5.0	13.0	0
+XVFIYP	formed	PBSC_unmodified	Leukemia	pre	-1.0	5.0	-5.0	0
+U5Y4NC	semi-formed	PBSC_unmodified	Leukemia	pre	-1.0	5.0	-2.0	0
+J6IEC9	formed	PBSC_unmodified	Leukemia	pre	-1.0	7.0	-3.0	0
+HCMB0Y	formed	PBSC_unmodified	Leukemia	pre	-2.0	9.0	-9.0	0
+P0A2X1	semi-formed	PBSC_unmodified	Leukemia	pre	-1.0	9.0	-3.0	0
+F89RLS	semi-formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	pre	-1.0	3.0	-3.0	0
+ZQT8ZN	liquid	PBSC_unmodified	Non-Hodgkin's Lymphoma	pre	-1.0	3.0	-1.0	0
+62ARKK	formed	PBSC_unmodified	Leukemia	pre	-1.0	3.0	-3.0	0
