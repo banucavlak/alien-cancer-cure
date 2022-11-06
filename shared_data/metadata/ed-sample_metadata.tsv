@@ -1,0 +1,162 @@
+sampleid	stool_consistency	hct_source	disease	categorical_time_relative_to_engraftment	week_relative_to_hct	timepoint_of_transplant	day_relative_to_nearest_hct	alleged_abduction
+N4VICF	formed	cord	Myelodysplastic Syndromes	pre	-1	6	-6	0-un-abducted
+8A0F9A	formed	cord	Leukemia	pre	-2	7	-7	0-un-abducted
+ZKJI45	semi-formed	cord	Leukemia	post	1	7	8	0-un-abducted
+XO59R8	liquid	cord	Leukemia	pre	-1	1	-1	0-un-abducted
+AFG7YZ	semi-formed	cord	Leukemia	post	2	1	15	0-un-abducted
+KR5DEB	formed	cord	Leukemia	pre	-1	5	-5	0-un-abducted
+8MIL3L	formed	cord	Non-Hodgkin's Lymphoma	pre	-2	7	-7	0-un-abducted
+6MPC62	formed	cord	Non-Hodgkin's Lymphoma	peri	-1	7	0	0-un-abducted
+RERN47	formed	cord	Non-Hodgkin's Lymphoma	post	0	7	7	0-un-abducted
+0KB68F	formed	cord	Non-Hodgkin's Lymphoma	post	2	7	15	0-un-abducted
+UQ1VYJ	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	post	2	4	15	0-un-abducted
+DALXNM	liquid	cord	Non-Hodgkin's Lymphoma	peri	-1	0	0	0-un-abducted
+WZVL32	formed	cord	Non-Hodgkin's Lymphoma	post	0	0	7	0-un-abducted
+66AYMN	semi-formed	cord	Non-Hodgkin's Lymphoma	post	1	0	14	0-un-abducted
+SFI9L6	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	pre	-1	2	-2	0-un-abducted
+YLLVZM	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	peri	-1	2	0	0-un-abducted
+CG40D4	liquid	PBSC_unmodified	Non-Hodgkin's Lymphoma	post	1	2	8	0-un-abducted
+UM6EDM	liquid	PBSC_unmodified	Non-Hodgkin's Lymphoma	post	1	2	14	0-un-abducted
+0TR6O2	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	pre	-1	6	-6	0-un-abducted
+A2FX4X	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	pre	-1	6	-5	0-un-abducted
+UT1NIU	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	pre	-1	6	-4	0-un-abducted
+SETQFZ	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	pre	-1	6	-3	0-un-abducted
+2M59XO	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	post	1	6	12	0-un-abducted
+JEJ9C6	liquid	PBSC_unmodified	Leukemia	peri	0	379	4	0-un-abducted
+2ZT5IF	formed	PBSC_unmodified	Hodgkin's Disease	pre	-1	5	-5	0-un-abducted
+5CPP5N	formed	PBSC_unmodified	Hodgkin's Disease	peri	0	5	3	0-un-abducted
+USRRQV	formed	PBSC_unmodified	Hodgkin's Disease	post	1	5	13	0-un-abducted
+PP79I8	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	pre	-1	5	-5	0-un-abducted
+AL6GY9	semi-formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	peri	0	5	1	0-un-abducted
+WQBQQ2	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	post	1	5	8	0-un-abducted
+NTRPTL	formed	PBSC_unmodified	Leukemia	pre	-2	9	-9	0-un-abducted
+WJA8C1	liquid	PBSC_unmodified	Leukemia	peri	0	9	5	0-un-abducted
+BKS62K	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	pre	-2	24	-9	0-un-abducted
+W5414C	liquid	cord	Non-Hodgkin's Lymphoma	peri	0	14	1	0-un-abducted
+9V6FS5	liquid	cord	Non-Hodgkin's Lymphoma	post	1	14	12	0-un-abducted
+8W6ADJ	semi-formed	PBSC_unmodified	Myelodysplastic Syndromes	pre	-1	5	-5	0-un-abducted
+5ZP6SF	semi-formed	PBSC_unmodified	Myelodysplastic Syndromes	pre	-1	5	-2	0-un-abducted
+7092S6	liquid	PBSC_unmodified	Myelodysplastic Syndromes	post	0	5	6	0-un-abducted
+EAJ8D1	liquid	PBSC_unmodified	Myelodysplastic Syndromes	post	1	5	12	0-un-abducted
+TEHZN5	formed							0-un-abducted
+BU4IJU	formed							0-un-abducted
+GX7LG5	formed							0-un-abducted
+B4P2N8	formed							0-un-abducted
+XVCUIZ	formed	PBSC_unmodified	Leukemia	pre	-1	363	-2	0-un-abducted
+LIFJEK	liquid	PBSC_unmodified	Leukemia	peri	0	363	3	0-un-abducted
+PTVRXH	liquid	PBSC_unmodified	Non-Hodgkin's Lymphoma	post	0	1	6	0-un-abducted
+HMPJUC	liquid	PBSC_unmodified	Non-Hodgkin's Lymphoma	post	0	1	7	0-un-abducted
+PQVFXQ	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	post	1	1	12	0-un-abducted
+7EO273	semi-formed	cord	Leukemia	pre	-1	6	-6	0-un-abducted
+6PIJWX	liquid	cord	Leukemia	pre	-1	6	-1	0-un-abducted
+PG5LI3	semi-formed	cord	Leukemia	peri	0	6	5	0-un-abducted
+1Y2WWO	semi-formed	cord	Leukemia	post	1	6	13	0-un-abducted
+62A5IJ	formed	PBSC_unmodified	Leukemia	peri	0	5	5	0-un-abducted
+94F4JW	formed	cord	Leukemia	pre	-1	3	-3	0-un-abducted
+3CGEF6	formed	cord	Leukemia	peri	0	3	1	0-un-abducted
+BL4AQ3	liquid	cord	Leukemia	post	0	3	7	0-un-abducted
+63BB0Q	liquid	cord	Leukemia	post	2	3	16	0-un-abducted
+RY2J8K	semi-formed	cord	Non-Hodgkin's Lymphoma	pre	-1	6	-6	0-un-abducted
+5CBV0W	semi-formed	cord	Non-Hodgkin's Lymphoma	pre	-1	6	-3	0-un-abducted
+C776ZA	semi-formed	cord	Non-Hodgkin's Lymphoma	post	1	6	11	0-un-abducted
+PGIR4X	semi-formed	cord	Non-Hodgkin's Lymphoma	post	1	6	13	0-un-abducted
+IXJOV0	liquid	PBSC_unmodified	Leukemia	peri	0	52	3	0-un-abducted
+JPW9HU	formed	PBSC_unmodified	Leukemia	pre	-1	4	-4	0-un-abducted
+HEKP4L	semi-formed	PBSC_unmodified	Leukemia	peri	0	4	3	0-un-abducted
+82O5JA	semi-formed	PBSC_unmodified	Leukemia	post	1	4	11	0-un-abducted
+QWYAAY	formed	cord	Leukemia	pre	-1	5	-5	0-un-abducted
+7R1GFQ	semi-formed	cord	Leukemia	pre	-1	5	-2	0-un-abducted
+G3VBHP	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	pre	-1	5	-5	0-un-abducted
+C0PEHY	semi-formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	pre	-1	5	-2	0-un-abducted
+PSHJIP	liquid	PBSC_unmodified	Non-Hodgkin's Lymphoma	post	1	5	10	0-un-abducted
+FA88B6	semi-formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	post	2	5	15	0-un-abducted
+KTSCMP	formed	cord	Leukemia	pre	-1	6	-6	0-un-abducted
+TTNSEZ	liquid	cord	Leukemia	pre	-1	6	-2	0-un-abducted
+RU951M	semi-formed	cord	Leukemia	post	1	6	13	0-un-abducted
+SLV228	formed	PBSC_unmodified	Leukemia	pre	-1	5	-5	0-un-abducted
+RRA9NL	semi-formed	PBSC_unmodified	Leukemia	peri	0	5	4	0-un-abducted
+S2JX0O	formed	PBSC_unmodified	Hodgkin's Disease	pre	-2	7	-7	0-un-abducted
+GZ5795	semi-formed	PBSC_unmodified	Hodgkin's Disease	peri	0	7	4	0-un-abducted
+0ZIEYD	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	pre	-1	6	-6	0-un-abducted
+L60NPJ	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	pre	-1	6	-1	0-un-abducted
+0UWI7J	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	peri	-1	6	0	0-un-abducted
+Z95BTZ	semi-formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	post	0	6	6	0-un-abducted
+QJIMXT	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	post	1	6	13	0-un-abducted
+4JX8MN	formed	PBSC_unmodified	Leukemia	pre	-1	5	-5	0-un-abducted
+ZJYE4E	formed	PBSC_unmodified	Leukemia	pre	-2	9	-9	0-un-abducted
+2FPVDT	semi-formed	PBSC_unmodified	Leukemia	pre	-1	6	-6	0-un-abducted
+WP0TB1	liquid	PBSC_unmodified	Leukemia	pre	-1	6	-2	0-un-abducted
+9FGVWQ	liquid	PBSC_unmodified	Leukemia	peri	-1	6	0	0-un-abducted
+GRMT7P	liquid	PBSC_unmodified	Leukemia	peri	0	6	5	0-un-abducted
+97HREF	liquid	PBSC_unmodified	Leukemia	post	1	6	12	0-un-abducted
+UB1Z91	liquid	PBSC_unmodified	Leukemia	post	1	6	14	0-un-abducted
+O3OW1F	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	pre	-1	2	-2	0-un-abducted
+8QR9US	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	post	0	2	6	0-un-abducted
+HH1SXZ	liquid	PBSC_unmodified	Non-Hodgkin's Lymphoma	post	1	2	12	0-un-abducted
+YL5QG5	formed	PBSC_unmodified	Leukemia	pre	-2	9	-9	0-un-abducted
+6E5YJU	semi-formed	PBSC_unmodified	Leukemia	pre	-1	9	-3	0-un-abducted
+4L9I67	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	pre	-1	5	-5	0-un-abducted
+D31PBF	semi-formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	post	1	5	11	0-un-abducted
+9MQ67J	liquid	cord	Non-Hodgkin's Lymphoma	post	2	3	15	0-un-abducted
+6JACFU	formed	cord	Hodgkin's Disease	pre	-1	3	-3	0-un-abducted
+J4NCRD	liquid	cord	Hodgkin's Disease	post	1	3	8	0-un-abducted
+A7DEJE	formed	cord	Leukemia	pre	-1	6	-6	0-un-abducted
+PYOTBF	liquid	cord	Leukemia	pre	-1	6	-5	0-un-abducted
+JW08QG	liquid	cord	Leukemia	post	0	6	7	0-un-abducted
+MN6YRR	liquid	cord	Leukemia	post	1	6	11	0-un-abducted
+9X2OPW	formed	cord	Leukemia	pre	-1	6	-6	0-un-abducted
+3ZQWO3	semi-formed	cord	Leukemia	pre	-1	6	-2	0-un-abducted
+51LN9N	semi-formed	cord	Leukemia	post	1	6	11	0-un-abducted
+XDEIYI	formed	cord	Leukemia	pre	-1	6	-6	0-un-abducted
+XCYZJI	semi-formed	cord	Leukemia	pre	-1	6	-2	0-un-abducted
+JRGI27	liquid	cord	Leukemia	peri	0	6	5	0-un-abducted
+1IMOSV	formed	cord	Leukemia	pre	-1	3	-3	0-un-abducted
+VLMX7N	liquid	cord	Leukemia	post	1	3	11	0-un-abducted
+A454WP	formed	cord	Non-Hodgkin's Lymphoma	pre	-1	6	-6	0-un-abducted
+C7PEWB	formed	cord	Non-Hodgkin's Lymphoma	pre	-1	6	-2	0-un-abducted
+NV2MHM	formed	cord	Non-Hodgkin's Lymphoma	peri	-1	6	0	0-un-abducted
+3DFM85	formed	cord	Non-Hodgkin's Lymphoma	peri	0	6	5	0-un-abducted
+RYYSOI	formed	cord	Hodgkin's Disease	pre	-1	6	-6	0-un-abducted
+Z9874X	formed	cord	Hodgkin's Disease	peri	-1	6	0	0-un-abducted
+RE2G74	liquid	cord	Hodgkin's Disease	post	1	6	9	0-un-abducted
+K613DJ	semi-formed	cord	Hodgkin's Disease	post	1	6	13	0-un-abducted
+F7IP1O	semi-formed	PBSC_unmodified	Leukemia	pre	-1	5	-5	0-un-abducted
+WWN7Y0	formed	cord	Leukemia	pre	-1	1	-1	0-un-abducted
+NGEUPE	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	pre	-2	7	-7	0-un-abducted
+RZEXX3	formed	cord	Non-Hodgkin's Lymphoma	pre	-1	5	-5	0-un-abducted
+95NCMG	liquid	cord	Non-Hodgkin's Lymphoma	peri	-1	5	0	0-un-abducted
+4NU0Q9	liquid	cord	Non-Hodgkin's Lymphoma	post	1	5	13	0-un-abducted
+XVFIYP	formed	PBSC_unmodified	Leukemia	pre	-1	5	-5	0-un-abducted
+U5Y4NC	semi-formed	PBSC_unmodified	Leukemia	pre	-1	5	-2	0-un-abducted
+J6IEC9	formed	PBSC_unmodified	Leukemia	pre	-1	7	-3	0-un-abducted
+HCMB0Y	formed	PBSC_unmodified	Leukemia	pre	-2	9	-9	0-un-abducted
+P0A2X1	semi-formed	PBSC_unmodified	Leukemia	pre	-1	9	-3	0-un-abducted
+F89RLS	semi-formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	pre	-1	3	-3	0-un-abducted
+ZQT8ZN	liquid	PBSC_unmodified	Non-Hodgkin's Lymphoma	pre	-1	3	-1	0-un-abducted
+62ARKK	formed	PBSC_unmodified	Leukemia	pre	-1	3	-3	0-un-abducted
+5Y49IM	semi-formed	cord	Leukemia	peri	-1	7	0	1-abducted
+2I7SIQ	liquid	cord	Leukemia	peri	-1	0	0	1-abducted
+PCUMU7	semi-formed	cord	Leukemia	post	2	0	16	1-abducted
+Q4TOSG	formed	cord	Myelodysplastic Syndromes	post	0	6	7	1-abducted
+RR9BC4	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	pre	-1	4	-4	1-abducted
+Z2DXHY	liquid	PBSC_unmodified	Leukemia	post	1	379	12	1-abducted
+8HNX4O	formed	PBSC_unmodified	Leukemia	pre	-1	9	-2	1-abducted
+A107EY	liquid	PBSC_unmodified	Non-Hodgkin's Lymphoma	post	1	24	12	1-abducted
+T41N7M	semi-formed	PBSC_unmodified	Leukemia	post	1	363	13	1-abducted
+G7D1L0	formed	PBSC_unmodified	Leukemia	pre	-1	5	-2	1-abducted
+9MD25S	formed	PBSC_unmodified	Leukemia	pre	-1	52	-4	1-abducted
+0DOSLC	liquid	PBSC_unmodified	Leukemia	post	1	52	11	1-abducted
+8ETYA3	liquid	cord	Leukemia	post	1	5	12	1-abducted
+VGQSRI	liquid	cord	Leukemia	post	1	6	8	1-abducted
+12QINS	liquid	PBSC_unmodified	Leukemia	pre	-1	5	-3	1-abducted
+4O2DTB	semi-formed	PBSC_unmodified	Leukemia	post	1	5	12	1-abducted
+M12Q6E	semi-formed	PBSC_unmodified	Hodgkin's Disease	post	1	7	11	1-abducted
+LCG2LJ	semi-formed	PBSC_unmodified	Leukemia	post	0	5	6	1-abducted
+3ALGNE	formed	PBSC_unmodified	Leukemia	post	1	5	13	1-abducted
+7FXIF8	liquid	PBSC_unmodified	Leukemia	post	1	9	13	1-abducted
+12H3HH	semi-formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	peri	0	5	4	1-abducted
+3XK7UB	liquid	cord	Non-Hodgkin's Lymphoma	post	1	3	9	1-abducted
+FSX8UT	formed	cord	Leukemia	post	2	6	16	1-abducted
+12ZW3B	semi-formed	PBSC_unmodified	Leukemia	pre	-1	6	-2	1-abducted
+8BSFV2	formed	cord	Non-Hodgkin's Lymphoma	post	1	6	12	1-abducted
+0WG67D	semi-formed	cord	Leukemia	post	2	1	16	1-abducted
