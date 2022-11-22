@@ -46,10 +46,10 @@ W5414C	liquid	cord	Non-Hodgkin's Lymphoma	peri	HCT week	14.0	1.0	non_abducted
 5ZP6SF	semi-formed	PBSC_unmodified	Myelodysplastic Syndromes	pre	one week before HCT	5.0	-2.0	non_abducted
 7092S6	liquid	PBSC_unmodified	Myelodysplastic Syndromes	post	HCT week	5.0	6.0	non_abducted
 EAJ8D1	liquid	PBSC_unmodified	Myelodysplastic Syndromes	post	one week after HCT	5.0	12.0	non_abducted
-TEHZN5	formed				nan			non_abducted
-BU4IJU	formed				nan			non_abducted
-GX7LG5	formed				nan			non_abducted
-B4P2N8	formed				nan			non_abducted
+TEHZN5	formed	nan	nan	nan	nan	nan	nan	non_abducted
+BU4IJU	formed	nan	nan	nan	nan	nan	nan	non_abducted
+GX7LG5	formed	nan	nan	nan	nan	nan	nan	non_abducted
+B4P2N8	formed	nan	nan	nan	nan	nan	nan	non_abducted
 XVCUIZ	formed	PBSC_unmodified	Leukemia	pre	one week before HCT	363.0	-2.0	non_abducted
 LIFJEK	liquid	PBSC_unmodified	Leukemia	peri	HCT week	363.0	3.0	non_abducted
 T41N7M	semi-formed	PBSC_unmodified	Leukemia	post	one week after HCT	363.0	13.0	abducted
