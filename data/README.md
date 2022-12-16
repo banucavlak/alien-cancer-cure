@@ -16,28 +16,28 @@ Since the size of some files are huge, we did not upload a couple of files from 
 This file is the input file for our project which can be downloaded using the following command:
 
 ```bash
-$ wget -nv -O $./sequences.qza https://polybox.ethz.ch/index.php/s/PCQspFMocVCKjZ3/download
+$ wget -nv -O ./sequences.qza https://polybox.ethz.ch/index.php/s/PCQspFMocVCKjZ3/download
 ```
 
 ### denoising/primer-trimmed-seqs.qza
 
 This file is the trimmed sequences of the input file which can be generated using the following command:
 
-'''bash
+```bash
 $ qiime cutadapt trim-paired \
 $  --i-demultiplexed-sequences sequences.qza \
 $  --p-front-f AYTGGGYDTAAAGNG \
 $  --p-front-r CCGTCAATTYHTTTRAGT \
 $  --p-error-rate 0 \
 $  --o-trimmed-sequences denoising/primer-trimmed-seqs.qza
-'''
+```
 
 ### taxonomy/gg-13-8-99-nb-classifier.qza
 
 This file is the pretrained classifier used for taxonomy classification which can be downloaded using the following command:
 
-'''bash
+```bash
 $ wget -nv -O $data_dir/taxonomy/gg-13-8-99-nb-classifier.qza 'https://data.qiime2.org/2022.8/common/gg-13-8-99-nb-classifier.qza'
-'''
+```
 
 
