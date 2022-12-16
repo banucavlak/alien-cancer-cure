@@ -46,5 +46,5 @@ $ wget -nv -O taxonomy/gg-13-8-99-nb-classifier.qza 'https://data.qiime2.org/202
 This file is the reference database used for fragment insert tree of phylogeny analysis which can be downloaded using the following command:
 
 ```bash
-$ wget -nv -O $phylogeny/sepp-refs-gg-13-8.qza https://data.qiime2.org/2021.4/common/sepp-refs-gg-13-8.qza
+$ wget -nv -O phylogeny/sepp-refs-gg-13-8.qza https://data.qiime2.org/2021.4/common/sepp-refs-gg-13-8.qza
 ```
