@@ -6,6 +6,7 @@ Under this directory we keep all the data generated during the experiments of ou
 - Under [metadata directory](./metadata/), we have the different versions of the metadata file we have generated based on the requirements for certain analyses.
 - Under [denoising directory](./denoising/), we have the output files produced denoising experiments.
 - Under [taxonomy directory](./taxonomy/), we have the output files produced taxonomy experiments.
+- Under [phylogeny directory](./phylogeny/), we have the output files produced phylogeny experiments.
 
 
 ## Missing Files
@@ -37,7 +38,13 @@ $  --o-trimmed-sequences denoising/primer-trimmed-seqs.qza
 This file is the pretrained classifier used for taxonomy classification which can be downloaded using the following command:
 
 ```bash
-$ wget -nv -O $data_dir/taxonomy/gg-13-8-99-nb-classifier.qza 'https://data.qiime2.org/2022.8/common/gg-13-8-99-nb-classifier.qza'
+$ wget -nv -O taxonomy/gg-13-8-99-nb-classifier.qza 'https://data.qiime2.org/2022.8/common/gg-13-8-99-nb-classifier.qza'
 ```
 
+### phylogeny/sepp-refs-gg-13-8.qza
 
+This file is the reference database used for fragment insert tree of phylogeny analysis which can be downloaded using the following command:
+
+```bash
+$ wget -nv -O phylogeny/sepp-refs-gg-13-8.qza https://data.qiime2.org/2021.4/common/sepp-refs-gg-13-8.qza
+```
