@@ -15,9 +15,9 @@ Since the size of some files are huge, we did not upload a couple of files from 
 
 This file is the input file for our project which can be downloaded using the following command:
 
-'''bash
+```bash
 $ wget -nv -O $./sequences.qza https://polybox.ethz.ch/index.php/s/PCQspFMocVCKjZ3/download
-'''
+```
 
 ### denoising/primer-trimmed-seqs.qza
 
