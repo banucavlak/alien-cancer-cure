@@ -7,6 +7,8 @@ Under this directory we keep all the data generated during the experiments of ou
 - Under [denoising directory](./denoising/), we have the output files produced denoising experiments.
 - Under [taxonomy directory](./taxonomy/), we have the output files produced taxonomy experiments.
 - Under [phylogeny directory](./phylogeny/), we have the output files produced phylogeny experiments.
+- Under [alpha_diversity directory](./alpha_diversity/), we have the output files produced alpha diversity analysis experiments.
+- Under [beta_diversity directory](./beta_diversity/), we have the output files produced beta diversity analysis experiments.
 
 
 ## Missing Files
