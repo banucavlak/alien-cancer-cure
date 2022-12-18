@@ -9,7 +9,7 @@ Under this directory we keep all the data generated during the experiments of ou
 - Under [phylogeny directory](./phylogeny/), we have the output files produced phylogeny experiments.
 - Under [alpha_diversity directory](./alpha_diversity/), we have the output files produced alpha diversity analysis experiments.
 - Under [beta_diversity directory](./beta_diversity/), we have the output files produced beta diversity analysis experiments.
-
+- Under [differential_abundance directory](./differential_abundance/), we have the output files produced differential abundance analysis experiments.
 
 ## Missing Files
 Since the size of some files are huge, we did not upload a couple of files from our analysis to GitHub. We explicitly mention them here, as well as how to generate them so that the users can reproduce our analyses.
