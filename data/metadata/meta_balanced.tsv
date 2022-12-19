@@ -1,0 +1,53 @@
+sampleid	stool_consistency	hct_source	disease	categorical_time_relative_to_engraftment	week_relative_to_hct	timepoint_of_transplant	day_relative_to_nearest_hct	alleged_abduction
+5Y49IM	semi-formed	cord	Leukemia	peri	one week before HCT	7.0	0.0	abducted
+2I7SIQ	liquid	cord	Leukemia	peri	one week before HCT	0.0	0.0	abducted
+PCUMU7	semi-formed	cord	Leukemia	post	two weeks after HCT	0.0	16.0	abducted
+Q4TOSG	formed	cord	Myelodysplastic Syndromes	post	HCT week	6.0	7.0	abducted
+8MIL3L	formed	cord	Non-Hodgkin's Lymphoma	pre	two weeks before HCT	7.0	-7.0	non_abducted
+RR9BC4	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	pre	one week before HCT	4.0	-4.0	abducted
+WZVL32	formed	cord	Non-Hodgkin's Lymphoma	post	HCT week	0.0	7.0	non_abducted
+CG40D4	liquid	PBSC_unmodified	Non-Hodgkin's Lymphoma	post	one week after HCT	2.0	8.0	non_abducted
+UM6EDM	liquid	PBSC_unmodified	Non-Hodgkin's Lymphoma	post	one week after HCT	2.0	14.0	non_abducted
+Z2DXHY	liquid	PBSC_unmodified	Leukemia	post	one week after HCT	379.0	12.0	abducted
+2ZT5IF	formed	PBSC_unmodified	Hodgkin's Disease	pre	one week before HCT	5.0	-5.0	non_abducted
+8HNX4O	formed	PBSC_unmodified	Leukemia	pre	one week before HCT	9.0	-2.0	abducted
+BKS62K	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	pre	two weeks before HCT	24.0	-9.0	non_abducted
+A107EY	liquid	PBSC_unmodified	Non-Hodgkin's Lymphoma	post	one week after HCT	24.0	12.0	abducted
+W5414C	liquid	cord	Non-Hodgkin's Lymphoma	peri	HCT week	14.0	1.0	non_abducted
+TEHZN5	formed							non_abducted
+T41N7M	semi-formed	PBSC_unmodified	Leukemia	post	one week after HCT	363.0	13.0	abducted
+PTVRXH	liquid	PBSC_unmodified	Non-Hodgkin's Lymphoma	post	HCT week	1.0	6.0	non_abducted
+7EO273	semi-formed	cord	Leukemia	pre	one week before HCT	6.0	-6.0	non_abducted
+G7D1L0	formed	PBSC_unmodified	Leukemia	pre	one week before HCT	5.0	-2.0	abducted
+62A5IJ	formed	PBSC_unmodified	Leukemia	peri	HCT week	5.0	5.0	non_abducted
+94F4JW	formed	cord	Leukemia	pre	one week before HCT	3.0	-3.0	non_abducted
+63BB0Q	liquid	cord	Leukemia	post	two weeks after HCT	3.0	16.0	non_abducted
+9MD25S	formed	PBSC_unmodified	Leukemia	pre	one week before HCT	52.0	-4.0	abducted
+0DOSLC	liquid	PBSC_unmodified	Leukemia	post	one week after HCT	52.0	11.0	abducted
+8ETYA3	liquid	cord	Leukemia	post	one week after HCT	5.0	12.0	abducted
+PSHJIP	liquid	PBSC_unmodified	Non-Hodgkin's Lymphoma	post	one week after HCT	5.0	10.0	non_abducted
+TTNSEZ	liquid	cord	Leukemia	pre	one week before HCT	6.0	-2.0	non_abducted
+VGQSRI	liquid	cord	Leukemia	post	one week after HCT	6.0	8.0	abducted
+SLV228	formed	PBSC_unmodified	Leukemia	pre	one week before HCT	5.0	-5.0	non_abducted
+12QINS	liquid	PBSC_unmodified	Leukemia	pre	one week before HCT	5.0	-3.0	abducted
+4O2DTB	semi-formed	PBSC_unmodified	Leukemia	post	one week after HCT	5.0	12.0	abducted
+M12Q6E	semi-formed	PBSC_unmodified	Hodgkin's Disease	post	one week after HCT	7.0	11.0	abducted
+0ZIEYD	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	pre	one week before HCT	6.0	-6.0	non_abducted
+0UWI7J	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	peri	one week before HCT	6.0	0.0	non_abducted
+LCG2LJ	semi-formed	PBSC_unmodified	Leukemia	post	HCT week	5.0	6.0	abducted
+3ALGNE	formed	PBSC_unmodified	Leukemia	post	one week after HCT	5.0	13.0	abducted
+ZJYE4E	formed	PBSC_unmodified	Leukemia	pre	two weeks before HCT	9.0	-9.0	non_abducted
+9FGVWQ	liquid	PBSC_unmodified	Leukemia	peri	one week before HCT	6.0	0.0	non_abducted
+8QR9US	formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	post	HCT week	2.0	6.0	non_abducted
+7FXIF8	liquid	PBSC_unmodified	Leukemia	post	one week after HCT	9.0	13.0	abducted
+12H3HH	semi-formed	PBSC_unmodified	Non-Hodgkin's Lymphoma	peri	HCT week	5.0	4.0	abducted
+3XK7UB	liquid	cord	Non-Hodgkin's Lymphoma	post	one week after HCT	3.0	9.0	abducted
+J4NCRD	liquid	cord	Hodgkin's Disease	post	one week after HCT	3.0	8.0	non_abducted
+51LN9N	semi-formed	cord	Leukemia	post	one week after HCT	6.0	11.0	non_abducted
+FSX8UT	formed	cord	Leukemia	post	two weeks after HCT	6.0	16.0	abducted
+12ZW3B	semi-formed	PBSC_unmodified	Leukemia	pre	one week before HCT	6.0	-2.0	abducted
+NV2MHM	formed	cord	Non-Hodgkin's Lymphoma	peri	one week before HCT	6.0	0.0	non_abducted
+8BSFV2	formed	cord	Non-Hodgkin's Lymphoma	post	one week after HCT	6.0	12.0	abducted
+K613DJ	semi-formed	cord	Hodgkin's Disease	post	one week after HCT	6.0	13.0	non_abducted
+0WG67D	semi-formed	cord	Leukemia	post	two weeks after HCT	1.0	16.0	abducted
+J6IEC9	formed	PBSC_unmodified	Leukemia	pre	one week before HCT	7.0	-3.0	non_abducted
